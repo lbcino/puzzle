@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html lang="en" >
+<head>
   <meta charset="UTF-8">
   <title>Puzzle</title>
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1.0,  minimum-scale=1, shrink-to-fit=yes">
@@ -33,4 +35,7 @@
 
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script><script  src="puzzle.js"></script>
 
+</body>
+</html>
 
+  
